@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">walkthrough_hr-limits</string>
+    <string name="age">Age</string>
+    <string name="heart_rate_limits">Hr limits are: %.1f - %.1f</string>
+</resources>
